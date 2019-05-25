@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning on argsno</title>
+    <link>https://argsno.github.io/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on argsno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 26 Jan 2019 23:03:32 +0800</lastBuildDate>
+    
+	<atom:link href="https://argsno.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>大众点评搜索基于知识图谱的深度学习排序实践</title>
+      <link>https://argsno.github.io/post/dianping-search-deeplearning/</link>
+      <pubDate>Sat, 26 Jan 2019 23:03:32 +0800</pubDate>
+      
+      <guid>https://argsno.github.io/post/dianping-search-deeplearning/</guid>
+      <description>1. 引言 挑战与思路 搜索是大众点评App上用户进行信息查找的最大入口，是连接用户和信息的重要纽带。而用户搜索的方式和场景非常多样，并且由于对接业</description>
+    </item>
+    
+  </channel>
+</rss>

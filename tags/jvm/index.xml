@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JVM on argsno</title>
+    <link>https://argsno.github.io/tags/jvm/</link>
+    <description>Recent content in JVM on argsno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 06 Dec 2017 11:29:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://argsno.github.io/tags/jvm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Java ClassLoader</title>
+      <link>https://argsno.github.io/post/java-classloader/</link>
+      <pubDate>Wed, 06 Dec 2017 11:29:51 +0000</pubDate>
+      
+      <guid>https://argsno.github.io/post/java-classloader/</guid>
+      <description>类加载的时机 类的整个生命周期包括：加载（Loading）、验证（Verification）、准备（Preparation）、解析（Resol</description>
+    </item>
+    
+    <item>
+      <title>Java 运行时数据区域</title>
+      <link>https://argsno.github.io/post/java-runtime-data/</link>
+      <pubDate>Tue, 05 Dec 2017 10:33:17 +0000</pubDate>
+      
+      <guid>https://argsno.github.io/post/java-runtime-data/</guid>
+      <description>程序计数器 当前线程所执行的字节码的行号指示器，用于记录下一条要执行的指令。每个线程都需要有一个独立的程序计数器，线程私有。 如果线程正在执行的</description>
+    </item>
+    
+  </channel>
+</rss>
